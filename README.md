@@ -5,7 +5,8 @@ The following techniques have been implemented in this repository:
 
 - The carry trade strategy
 - The contrarian strategy 
-- The Kalman filter strategy 
+- The Kalman filter strategy
+- Pair trading strategy
 
 Each project has been implemented in Python and has a separate folder containing all the necessary code and data files. The code is well-documented and easy to understand, making it an excellent resource for those new to the topic.
 
